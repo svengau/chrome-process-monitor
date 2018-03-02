@@ -1,0 +1,825 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders a list of processes correctly 1`] = `
+Array [
+  <table
+    className="sc-bdVaJa kxmuZk"
+  >
+    <thead>
+      <tr>
+        <th
+          className="sc-ifAKCX jbVedC"
+        >
+          Process ID
+        </th>
+        <th
+          className="sc-ifAKCX jbVedC"
+        >
+          Tab
+        </th>
+        <th
+          className="sc-ifAKCX jbVedC"
+        >
+          CPU
+        </th>
+        <th
+          className="sc-ifAKCX jbVedC"
+        >
+          Private memory
+        </th>
+        <th
+          className="sc-ifAKCX jbVedC"
+        >
+          Javascript memory allocated
+        </th>
+        <th
+          className="sc-ifAKCX jbVedC"
+        >
+          Javascript memory used
+        </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr
+        style={
+          Object {
+            "backgroundColor": "",
+          }
+        }
+      >
+        <td
+          className="sc-bxivhb bgPqam"
+        >
+          86348
+        </td>
+        <td
+          className="sc-bwzfXH ftKEZi"
+        >
+          Browser
+        </td>
+        <td
+          className="sc-htpNat kSWrKi"
+        >
+          64
+        </td>
+        <td
+          className="sc-htpNat kSWrKi"
+        >
+          177.36MB
+        </td>
+        <td
+          className="sc-htpNat kSWrKi"
+        >
+          -
+        </td>
+        <td
+          className="sc-htpNat kSWrKi"
+        >
+          -
+        </td>
+      </tr>
+      <tr
+        style={
+          Object {
+            "backgroundColor": "",
+          }
+        }
+      >
+        <td
+          className="sc-bxivhb bgPqam"
+        >
+          86352
+        </td>
+        <td
+          className="sc-bwzfXH ftKEZi"
+        >
+          GPU Process
+        </td>
+        <td
+          className="sc-htpNat kSWrKi"
+        >
+          1
+        </td>
+        <td
+          className="sc-htpNat kSWrKi"
+        >
+          40.79MB
+        </td>
+        <td
+          className="sc-htpNat kSWrKi"
+        >
+          -
+        </td>
+        <td
+          className="sc-htpNat kSWrKi"
+        >
+          -
+        </td>
+      </tr>
+      <tr
+        style={
+          Object {
+            "backgroundColor": "",
+          }
+        }
+      >
+        <td
+          className="sc-bxivhb bgPqam"
+        >
+          86367
+        </td>
+        <td
+          className="sc-bwzfXH ftKEZi"
+        >
+          Extension: Web Developer
+        </td>
+        <td
+          className="sc-htpNat kSWrKi"
+        >
+          0
+        </td>
+        <td
+          className="sc-htpNat kSWrKi"
+        >
+          9.46MB
+        </td>
+        <td
+          className="sc-htpNat kSWrKi"
+        >
+          9.85MB
+        </td>
+        <td
+          className="sc-htpNat kSWrKi"
+        >
+          6.56MB
+        </td>
+      </tr>
+      <tr
+        style={
+          Object {
+            "backgroundColor": "",
+          }
+        }
+      >
+        <td
+          className="sc-bxivhb bgPqam"
+        >
+          86377
+        </td>
+        <td
+          className="sc-bwzfXH ftKEZi"
+        >
+          Extension: WhatRuns
+        </td>
+        <td
+          className="sc-htpNat kSWrKi"
+        >
+          0
+        </td>
+        <td
+          className="sc-htpNat kSWrKi"
+        >
+          54.76MB
+        </td>
+        <td
+          className="sc-htpNat kSWrKi"
+        >
+          15.37MB
+        </td>
+        <td
+          className="sc-htpNat kSWrKi"
+        >
+          10.76MB
+        </td>
+      </tr>
+      <tr
+        style={
+          Object {
+            "backgroundColor": "",
+          }
+        }
+      >
+        <td
+          className="sc-bxivhb bgPqam"
+        >
+          86383
+        </td>
+        <td
+          className="sc-bwzfXH ftKEZi"
+        >
+          Google Maps
+        </td>
+        <td
+          className="sc-htpNat kSWrKi"
+        >
+          0
+        </td>
+        <td
+          className="sc-htpNat kSWrKi"
+        >
+          85.86MB
+        </td>
+        <td
+          className="sc-htpNat kSWrKi"
+        >
+          89.25MB
+        </td>
+        <td
+          className="sc-htpNat kSWrKi"
+        >
+          71.41MB
+        </td>
+      </tr>
+      <tr
+        style={
+          Object {
+            "backgroundColor": "",
+          }
+        }
+      >
+        <td
+          className="sc-bxivhb bgPqam"
+        >
+          86384
+        </td>
+        <td
+          className="sc-bwzfXH ftKEZi"
+        >
+          Subframe: AdBlock
+        </td>
+        <td
+          className="sc-htpNat kSWrKi"
+        >
+          1
+        </td>
+        <td
+          className="sc-htpNat kSWrKi"
+        >
+          190.6MB
+        </td>
+        <td
+          className="sc-htpNat kSWrKi"
+        >
+          152.69MB
+        </td>
+        <td
+          className="sc-htpNat kSWrKi"
+        >
+          139.93MB
+        </td>
+      </tr>
+      <tr
+        style={
+          Object {
+            "backgroundColor": "",
+          }
+        }
+      >
+        <td
+          className="sc-bxivhb bgPqam"
+        >
+          86402
+        </td>
+        <td
+          className="sc-bwzfXH ftKEZi"
+        >
+          Tab: Inbox – xxxxxx@gmail.com
+        </td>
+        <td
+          className="sc-htpNat kSWrKi"
+        >
+          1
+        </td>
+        <td
+          className="sc-htpNat kSWrKi"
+        >
+          295.59MB
+        </td>
+        <td
+          className="sc-htpNat kSWrKi"
+        >
+          213.33MB
+        </td>
+        <td
+          className="sc-htpNat kSWrKi"
+        >
+          193.38MB
+        </td>
+      </tr>
+      <tr
+        style={
+          Object {
+            "backgroundColor": "",
+          }
+        }
+      >
+        <td
+          className="sc-bxivhb bgPqam"
+        >
+          86419
+        </td>
+        <td
+          className="sc-bwzfXH ftKEZi"
+        >
+          Tab: * Feature Requests | Trello
+        </td>
+        <td
+          className="sc-htpNat kSWrKi"
+        >
+          0
+        </td>
+        <td
+          className="sc-htpNat kSWrKi"
+        >
+          112.46MB
+        </td>
+        <td
+          className="sc-htpNat kSWrKi"
+        >
+          77.26MB
+        </td>
+        <td
+          className="sc-htpNat kSWrKi"
+        >
+          66.27MB
+        </td>
+      </tr>
+      <tr
+        style={
+          Object {
+            "backgroundColor": "",
+          }
+        }
+      >
+        <td
+          className="sc-bxivhb bgPqam"
+        >
+          86442
+        </td>
+        <td
+          className="sc-bwzfXH ftKEZi"
+        >
+          Tab: * Bugs | Trello
+        </td>
+        <td
+          className="sc-htpNat kSWrKi"
+        >
+          0
+        </td>
+        <td
+          className="sc-htpNat kSWrKi"
+        >
+          87.45MB
+        </td>
+        <td
+          className="sc-htpNat kSWrKi"
+        >
+          63.26MB
+        </td>
+        <td
+          className="sc-htpNat kSWrKi"
+        >
+          54.04MB
+        </td>
+      </tr>
+      <tr
+        style={
+          Object {
+            "backgroundColor": "",
+          }
+        }
+      >
+        <td
+          className="sc-bxivhb bgPqam"
+        >
+          86448
+        </td>
+        <td
+          className="sc-bwzfXH ftKEZi"
+        >
+          Tab: TODO - Wunderlist
+        </td>
+        <td
+          className="sc-htpNat kSWrKi"
+        >
+          1
+        </td>
+        <td
+          className="sc-htpNat kSWrKi"
+        >
+          49.99MB
+        </td>
+        <td
+          className="sc-htpNat kSWrKi"
+        >
+          53.21MB
+        </td>
+        <td
+          className="sc-htpNat kSWrKi"
+        >
+          42.26MB
+        </td>
+      </tr>
+      <tr
+        style={
+          Object {
+            "backgroundColor": "",
+          }
+        }
+      >
+        <td
+          className="sc-bxivhb bgPqam"
+        >
+          86456
+        </td>
+        <td
+          className="sc-bwzfXH ftKEZi"
+        >
+          Tab: Microsoft
+        </td>
+        <td
+          className="sc-htpNat kSWrKi"
+        >
+          0
+        </td>
+        <td
+          className="sc-htpNat kSWrKi"
+        >
+          26.05MB
+        </td>
+        <td
+          className="sc-htpNat kSWrKi"
+        >
+          16.86MB
+        </td>
+        <td
+          className="sc-htpNat kSWrKi"
+        >
+          10.14MB
+        </td>
+      </tr>
+      <tr
+        style={
+          Object {
+            "backgroundColor": "",
+          }
+        }
+      >
+        <td
+          className="sc-bxivhb bgPqam"
+        >
+          86406
+        </td>
+        <td
+          className="sc-bwzfXH ftKEZi"
+        >
+          Tab: chrome.processes - Google Chrome
+        </td>
+        <td
+          className="sc-htpNat kSWrKi"
+        >
+          1
+        </td>
+        <td
+          className="sc-htpNat kSWrKi"
+        >
+          60.08MB
+        </td>
+        <td
+          className="sc-htpNat kSWrKi"
+        >
+          29.21MB
+        </td>
+        <td
+          className="sc-htpNat kSWrKi"
+        >
+          22.3MB
+        </td>
+      </tr>
+      <tr
+        style={
+          Object {
+            "backgroundColor": "",
+          }
+        }
+      >
+        <td
+          className="sc-bxivhb bgPqam"
+        >
+          86371
+        </td>
+        <td
+          className="sc-bwzfXH ftKEZi"
+        >
+          Tab: Extensions
+        </td>
+        <td
+          className="sc-htpNat kSWrKi"
+        >
+          1
+        </td>
+        <td
+          className="sc-htpNat kSWrKi"
+        >
+          185.69MB
+        </td>
+        <td
+          className="sc-htpNat kSWrKi"
+        >
+          21.85MB
+        </td>
+        <td
+          className="sc-htpNat kSWrKi"
+        >
+          13.26MB
+        </td>
+      </tr>
+      <tr
+        style={
+          Object {
+            "backgroundColor": "",
+          }
+        }
+      >
+        <td
+          className="sc-bxivhb bgPqam"
+        >
+          86427
+        </td>
+        <td
+          className="sc-bwzfXH ftKEZi"
+        >
+          Subframe: https://accounts.google.com/
+        </td>
+        <td
+          className="sc-htpNat kSWrKi"
+        >
+          1
+        </td>
+        <td
+          className="sc-htpNat kSWrKi"
+        >
+          65.84MB
+        </td>
+        <td
+          className="sc-htpNat kSWrKi"
+        >
+          36.86MB
+        </td>
+        <td
+          className="sc-htpNat kSWrKi"
+        >
+          22.21MB
+        </td>
+      </tr>
+      <tr
+        style={
+          Object {
+            "backgroundColor": "",
+          }
+        }
+      >
+        <td
+          className="sc-bxivhb bgPqam"
+        >
+          97713
+        </td>
+        <td
+          className="sc-bwzfXH ftKEZi"
+        >
+          Subframe: React Developer Tools
+        </td>
+        <td
+          className="sc-htpNat kSWrKi"
+        >
+          1
+        </td>
+        <td
+          className="sc-htpNat kSWrKi"
+        >
+          30.64MB
+        </td>
+        <td
+          className="sc-htpNat kSWrKi"
+        >
+          13.85MB
+        </td>
+        <td
+          className="sc-htpNat kSWrKi"
+        >
+          8.93MB
+        </td>
+      </tr>
+      <tr
+        style={
+          Object {
+            "backgroundColor": "",
+          }
+        }
+      >
+        <td
+          className="sc-bxivhb bgPqam"
+        >
+          813
+        </td>
+        <td
+          className="sc-bwzfXH ftKEZi"
+        >
+          Tab: My tracks - Artistco
+        </td>
+        <td
+          className="sc-htpNat kSWrKi"
+        >
+          0
+        </td>
+        <td
+          className="sc-htpNat kSWrKi"
+        >
+          136.42MB
+        </td>
+        <td
+          className="sc-htpNat kSWrKi"
+        >
+          64.21MB
+        </td>
+        <td
+          className="sc-htpNat kSWrKi"
+        >
+          54.62MB
+        </td>
+      </tr>
+      <tr
+        style={
+          Object {
+            "backgroundColor": "",
+          }
+        }
+      >
+        <td
+          className="sc-bxivhb bgPqam"
+        >
+          907
+        </td>
+        <td
+          className="sc-bwzfXH ftKEZi"
+        >
+          Tab: Developer Tools - https://www.artistco.com/me/tracks
+        </td>
+        <td
+          className="sc-htpNat kSWrKi"
+        >
+          1
+        </td>
+        <td
+          className="sc-htpNat kSWrKi"
+        >
+          104.51MB
+        </td>
+        <td
+          className="sc-htpNat kSWrKi"
+        >
+          77.34MB
+        </td>
+        <td
+          className="sc-htpNat kSWrKi"
+        >
+          65.54MB
+        </td>
+      </tr>
+      <tr
+        style={
+          Object {
+            "backgroundColor": "",
+          }
+        }
+      >
+        <td
+          className="sc-bxivhb bgPqam"
+        >
+          97647
+        </td>
+        <td
+          className="sc-bwzfXH ftKEZi"
+        >
+          Tab: Developer Tools - chrome://extensions/
+        </td>
+        <td
+          className="sc-htpNat kSWrKi"
+        >
+          1
+        </td>
+        <td
+          className="sc-htpNat kSWrKi"
+        >
+          84.21MB
+        </td>
+        <td
+          className="sc-htpNat kSWrKi"
+        >
+          39.7MB
+        </td>
+        <td
+          className="sc-htpNat kSWrKi"
+        >
+          34.78MB
+        </td>
+      </tr>
+      <tr
+        style={
+          Object {
+            "backgroundColor": "",
+          }
+        }
+      >
+        <td
+          className="sc-bxivhb bgPqam"
+        >
+          19900
+        </td>
+        <td
+          className="sc-bwzfXH ftKEZi"
+        >
+          Tab: Developer Tools - chrome-extension
+        </td>
+        <td
+          className="sc-htpNat kSWrKi"
+        >
+          3
+        </td>
+        <td
+          className="sc-htpNat kSWrKi"
+        >
+          72.32MB
+        </td>
+        <td
+          className="sc-htpNat kSWrKi"
+        >
+          23.41MB
+        </td>
+        <td
+          className="sc-htpNat kSWrKi"
+        >
+          17MB
+        </td>
+      </tr>
+      <tr
+        style={
+          Object {
+            "backgroundColor": "",
+          }
+        }
+      >
+        <td
+          className="sc-bxivhb bgPqam"
+        >
+          21892
+        </td>
+        <td
+          className="sc-bwzfXH ftKEZi"
+        >
+          Tab: React.Component - React
+        </td>
+        <td
+          className="sc-htpNat kSWrKi"
+        >
+          0
+        </td>
+        <td
+          className="sc-htpNat kSWrKi"
+        >
+          83.98MB
+        </td>
+        <td
+          className="sc-htpNat kSWrKi"
+        >
+          27.36MB
+        </td>
+        <td
+          className="sc-htpNat kSWrKi"
+        >
+          20.62MB
+        </td>
+      </tr>
+    </tbody>
+  </table>,
+  <div
+    className="sc-bZQynM hLMFvz"
+    onClick={[Function]}
+  >
+    Hosted on Github 
+    <img
+      alt="github"
+      className="sc-gzVnrw bcVbOd"
+      src="assets/github-32.png"
+    />
+  </div>,
+]
+`;
+
+exports[`renders empty processes correctly 1`] = `
+<div
+  className="sc-EHOje hJHkPF"
+>
+  Loading...
+</div>
+`;
